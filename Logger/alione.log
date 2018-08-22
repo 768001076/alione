@@ -1,0 +1,39 @@
+2018-03-19 16:42:26,865 INFO (StartupInfoLogger.java:48)- Starting AlioneApplication on beijing-shijialei with PID 12536 (D:\Idea_Space\my\alione\target\classes started by Administrator in D:\Idea_Space\my\alione)
+2018-03-19 16:42:26,873 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-03-19 16:42:26,873 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-03-19 16:42:28,514 INFO (AllFilter.java:38)- AllFilter-初始化!
+2018-03-19 16:42:28,515 DEBUG (AllFilter.java:39)- AllFilter-初始化!
+2018-03-19 16:42:29,553 INFO (StartupInfoLogger.java:57)- Started AlioneApplication in 3.037 seconds (JVM running for 3.585)
+2018-03-19 16:43:05,283 DEBUG (AllFilter.java:66)- [客户机信息]-请求的URL地址:http://localhost:6543/pw/test
+2018-03-19 16:43:05,283 DEBUG (AllFilter.java:67)- [客户机信息]-请求的资源:/pw/test
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:68)- [客户机信息]-请求的URL地址中附带的参数:null
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:69)- [客户机信息]-来访者的IP地址:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:70)- [客户机信息]-来访者的主机名:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:71)- [客户机信息]-使用的端口号:60050
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:72)- [客户机信息]-remoteUser:null
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:73)- [客户机信息]-请求使用的方法:GET
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:74)- [客户机信息]-pathInfo:null
+2018-03-19 16:43:05,284 DEBUG (AllFilter.java:75)- [客户机信息]-localAddr:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,285 DEBUG (AllFilter.java:76)- [客户机信息]-localName:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:66)- [客户机信息]-请求的URL地址:http://localhost:6543/favicon.ico
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:67)- [客户机信息]-请求的资源:/favicon.ico
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:68)- [客户机信息]-请求的URL地址中附带的参数:null
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:69)- [客户机信息]-来访者的IP地址:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:70)- [客户机信息]-来访者的主机名:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:71)- [客户机信息]-使用的端口号:60050
+2018-03-19 16:43:05,329 DEBUG (AllFilter.java:72)- [客户机信息]-remoteUser:null
+2018-03-19 16:43:05,330 DEBUG (AllFilter.java:73)- [客户机信息]-请求使用的方法:GET
+2018-03-19 16:43:05,330 DEBUG (AllFilter.java:74)- [客户机信息]-pathInfo:null
+2018-03-19 16:43:05,330 DEBUG (AllFilter.java:75)- [客户机信息]-localAddr:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,330 DEBUG (AllFilter.java:76)- [客户机信息]-localName:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:66)- [客户机信息]-请求的URL地址:http://localhost:6543/favicon.ico
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:67)- [客户机信息]-请求的资源:/favicon.ico
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:68)- [客户机信息]-请求的URL地址中附带的参数:null
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:69)- [客户机信息]-来访者的IP地址:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:70)- [客户机信息]-来访者的主机名:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:71)- [客户机信息]-使用的端口号:60051
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:72)- [客户机信息]-remoteUser:null
+2018-03-19 16:43:05,340 DEBUG (AllFilter.java:73)- [客户机信息]-请求使用的方法:GET
+2018-03-19 16:43:05,341 DEBUG (AllFilter.java:74)- [客户机信息]-pathInfo:null
+2018-03-19 16:43:05,341 DEBUG (AllFilter.java:75)- [客户机信息]-localAddr:0:0:0:0:0:0:0:1
+2018-03-19 16:43:05,341 DEBUG (AllFilter.java:76)- [客户机信息]-localName:0:0:0:0:0:0:0:1
